@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/outlined_borders/outlined_borders.iml" filepath="$PROJECT_DIR$/outlined_borders/outlined_borders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outlined_borders/flutter_outlined_borders.iml" filepath="$PROJECT_DIR$/outlined_borders/flutter_outlined_borders.iml" />
     </modules>
   </component>
 </project>
